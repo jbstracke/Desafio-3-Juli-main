@@ -1,0 +1,12 @@
+{
+    "itemName": "chapéu mágico",
+    "helmetClassDto": 
+    {
+      	"instanceID": 0
+    },
+    "thisType": 0,
+    "itemType": 1, 
+    "magiaItem": 25,
+    "manaItem":100,
+    "defItem":20
+}
